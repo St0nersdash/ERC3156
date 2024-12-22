@@ -40,7 +40,7 @@
     "hardhat": "^2.22.16",
     "hardhat-gas-reporter": "^2.0.0",
     "hardhat-deploy": "^0.11.5",
-    "chai": "4.2.0",
+    "chai": "5.1.2",
     "chai-as-promised": "^7.1.1",
     "ethereumjs-util": "^7.0.3",
     "ethers": "^6.0.0",
