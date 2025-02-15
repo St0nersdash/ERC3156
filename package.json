@@ -35,7 +35,7 @@
     "@nomiclabs/hardhat-web3": "^2.0.0",
     "@openzeppelin/test-helpers": "^0.5.16",
     "@truffle/hdwallet-provider": "^2.1.15",
-    "@types/mocha": "^8.0.0",
+    "@types/mocha": "^10.0.10",
     "acc-erc20": "^0.5.6",
     "hardhat": "^2.22.16",
     "hardhat-gas-reporter": "^2.0.0",
